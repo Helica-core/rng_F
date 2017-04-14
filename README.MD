@@ -6,8 +6,8 @@ rng_F
     Now it is just a demo edition
 
 
-#Usage
-
+Usage
+----
     -r=n get n bytes random data, default print hexdump format 
         --raw get the random data string
         --hex get the hex format of the random data
@@ -23,15 +23,15 @@ rng_F
     -h help
 
 
-#Install
+Install
+----
 just install evdev use pip
 
-'''code
-    
     pip install evdev
-'''
 
-#TODOlist (never do list
+
+TODOlist (never do list
+----
 
 1. syetem service
 2. colorful
